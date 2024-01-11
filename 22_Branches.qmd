@@ -1,0 +1,7 @@
+---
+title: "Happy Git Branches"
+author: "Nikos Saridis"
+format: html
+---
+
+This is a project and a repository to test Chapter 22 of "happygitwithR", which introduces Branches.
