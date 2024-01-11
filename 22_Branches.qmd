@@ -9,3 +9,10 @@ This is a project and a repository to test Chapter 22 of "happygitwithR", which 
 So i can switch back and forth my branches, commiting stuff without disruptions.
 
 **Awesome!!**
+
+Somehow i managed to not mess everything up! xD
+here is my good idea:
+
+::Insert Idea Here::
+
+Time to get back to my comfortable issue-5 branch
