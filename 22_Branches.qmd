@@ -5,3 +5,7 @@ format: html
 ---
 
 This is a project and a repository to test Chapter 22 of "happygitwithR", which introduces Branches.
+
+So i can switch back and forth my branches, commiting stuff without disruptions.
+
+**Awesome!!**
