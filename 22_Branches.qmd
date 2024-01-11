@@ -5,3 +5,6 @@ format: html
 ---
 
 This is a project and a repository to test Chapter 22 of "happygitwithR", which introduces Branches.
+
+So here I am on my first branch, called 'issue-5' and i can continue my
+development and workflows as usual, without disrupting the 'main' branch!
