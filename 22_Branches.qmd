@@ -1,6 +1,7 @@
 ---
 title: "Happy Git Branches"
 author: "Nikos Saridis"
+date: "2024-01-12"
 format: html
 ---
 
@@ -41,3 +42,5 @@ demonstration.
 Great work and ideas everywhere! Let's merge it!
 
 So did everything, still got some conflicts after a succesful merge which i resolved pretty much manually by mix resseting and commiting again. Notice that even if you merge, the branch remains intact!
+
+**Git is ossommmmm!!!**
