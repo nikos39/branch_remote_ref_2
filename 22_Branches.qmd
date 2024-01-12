@@ -6,9 +6,20 @@ format: html
 
 This is a project and a repository to test Chapter 22 of "happygitwithR", which introduces Branches.
 
+So here I am on my first branch, called 'issue-5' and i can continue my
+development and workflows as usual, without disrupting the 'main' branch!
+
 So i can switch back and forth my branches, commiting stuff without disruptions.
 
 **Awesome!!**
+
+So I continued working on my branch, but my mind wandered and got a really good
+idea for the main development part but things in this branch is a huge mess.
+I don't have time for sorting these out now and don't want to commit unfinished
+bussiness...People are watching!I can either `git stash` but Jenny recommends
+to safeguard the current state with a **temporary** commit!
+
+So back to my good iddddd
 
 Somehow i managed to not mess everything up! xD
 here is my good idea:
@@ -17,4 +28,16 @@ here is my good idea:
 
 Time to get back to my comfortable issue-5 branch
 
+Phewww, I just commited my great idea on main, and happy to have my temporary 
+commit here. Now is time to undo it. Remember i don't want everybody looking 
+at my messed version! Let's go for a "mixed", "working directory safe", reset 
+for the **LAST** commit.
+
+Perfect, everything is fine, my work is here unstaged and the last commit has been deleted!
+
+In real life I would go back and fix this idddd to idea. Won't happen here for 
+demonstration.
+
 Great work and ideas everywhere! Let's merge it!
+
+So did everything, still got some conflicts after a succesful merge which i resolved pretty much manually by mix resseting and commiting again. Notice that even if you merge, the branch remains intact!
