@@ -26,3 +26,5 @@ Perfect, everything is fine, my work is here unstaged and the last commit has be
 
 In real life I would go back and fix this idddd to idea. Won't happen here for 
 demonstration.
+
+This line represents some final touches on issue-5
