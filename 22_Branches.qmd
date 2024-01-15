@@ -46,3 +46,6 @@ So did everything, still got some conflicts after a succesful merge which i reso
 **Git is ossommmmm!!!**
 
 These are some new text lines i want to push to origin/main
+
+I will also --set-upstream for origin/main, as I did with the issue-5 branch so I always
+push to my fork.
